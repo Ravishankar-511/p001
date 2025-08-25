@@ -1,13 +1,5 @@
 import React, { Component } from 'react';
+import './'
 
-class Myapp extends Component {
-    render() {
-        return (
-            <div>
-                KL university
-            </div>
-        );
-    }
-}
 
 export default Myapp;
